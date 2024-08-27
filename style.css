@@ -1,0 +1,249 @@
+/*@import url('https://fonts.cdnfonts.com/css/instagram-sans-script')*/
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#main{
+	height:1000px ;
+	width:320px;
+	background-color: black;
+}
+#phup{
+	height: 30px;
+	width: 100%;
+	color: white;
+}
+#logo{
+	height: 45px;
+	width: 100%;
+	background-color: black;
+	padding-left: 10px;
+	font-family: 'Instagram sans Script',sans-serif ;
+	font-size: 21px;
+	padding-top: 5px;
+	color: white;
+
+}
+#story{
+	height:120px ;
+	width: 100%;
+	background-color: black;
+	padding-top: 10px;
+	color: white;
+	font-size: 12px;
+	font-family: sans-serif;
+
+}
+#ad{
+	height: 18px;
+	width: 18px;
+	background-color: dodgerblue;
+	font-size: 18px;
+	font-weight: bolder;
+	color: white;
+	border-radius: 20px;
+	padding-bottom: px;
+	padding-left: -1px;
+	position: relative;
+	left: 20px;
+	top: 40px;
+
+}
+.story{
+	height: 60px;
+/*	padding-top:2.5px;*/
+	padding-block: 2.8px;
+	width: 19%;
+	float: left;
+	background:linear-gradient(to bottom left,purple,orangered,orange,gold);
+	border-radius: 200px;
+	margin-left: 5%;
+	font-size: 10px;
+	font-family: sans-serif;
+}
+#u{
+background-image: url("images/spro.jpeg");
+	background-size: 100% 100%;
+}
+#post{
+	height: 500px;
+	background-color: black;
+	font-family: sans-serif;
+}
+.post{
+	height: 500px;
+	background-color: black;
+}
+
+#pic{
+	height: 350px;
+	background-image: url("images/spro.jpeg");
+	background-size: 100% 100%;
+}
+#like{
+	height: 35px;
+	text-align: left;
+	color: white;
+	font-size: 15px;
+	padding-top: 10px;
+/*	background-color: darkcyan;*/
+}
+#comment{
+	height: 25px;
+
+/*	background-color: pink;*/
+color: white;
+text-align: left;
+padding-top: 5px;
+padding-left: 8px;
+}
+#insto1{
+	height: 55px;
+	width: 95%;
+
+	background-image: url("images/sproutes.jpg");
+	background-size: 100% 100%;
+	border-radius: 100px;
+}
+#insto2{
+	height: 55px;
+	width: 95%;
+
+	background-image: url("images/spro.jpeg");
+	background-size: 100% 100%;
+	border-radius: 100px;
+}
+#insto3{
+	height: 55px;
+	width: 95%;
+
+	background-image: url("images/biriyani.jpeg");
+	background-size: 100% 100%;
+	border-radius: 100px;
+}
+#nam{
+	float: left;
+}
+#li{
+	float: left;
+	font-size: 18px;
+	padding-right: 30px;
+	padding-top: 5px;
+}
+#share{
+	float: right;
+	padding-right: 20px;
+	font-size: 18px;
+	padding-top: 5px;
+}
+#sl{
+	float: right;
+}
+
+#time{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#rig{
+	float: right;
+}
+#battery{
+	float: right;
+	padding-top: 3px;
+	padding-right: 5px;
+}
+#signal{
+	float: left;
+	padding-right: 10px;
+	padding-top: 5px;
+	font-size: 12px;
+}
+#im{
+	height: 35px;
+	width: 35px;
+	float: left;
+	background-image: url("images/spro.jpeg");
+	background-size: 100% 100%;
+	border-radius: 100px;
+	position: relative;
+	left: 10px;
+}
+#na{
+	float: left;
+	color: white;
+	padding-left: 16px;
+	padding-top: 7px;
+
+}
+#dot{
+	float: right;
+	color: white;
+	padding-right: 20px;
+	padding-top: 10px;
+}
+#com{
+	transform: rotateY(180deg);
+	margin-left: 25px;
+	font-size: 22px;
+	float: left;
+
+
+}
+#sav{
+	float: right;
+	margin-right: 10px;
+	font-size: 22px;
+
+}
+#lik{
+	margin-left: 10px;
+	font-size: 22px;
+	float: left;
+	display: inline;
+
+}
+#sha{
+	margin-left: 28px;
+	font-size: 22px;
+	float: left;
+
+}
+i span{
+	font-size: 20px;
+	padding-left: 1px;
+
+	font-family: sans-serif;
+/*	transform: rotateY(180deg);*/
+}
+
+#im2{
+	height: 35px;
+	width: 35px;
+	float: left;
+	background-image: url("images/sproutes.jpg");
+	background-size: 100% 100%;
+	border-radius: 100px;
+	position: relative;
+	left: 10px;
+}
+#na2{
+	float: left;
+	color: white;
+	padding-left: 16px;
+	padding-top: 7px;
+}
+#pic2{
+	height: 350px;
+	background-image: url("images/biriyani.jpeg");
+	background-size: 100% 100%;
+}
+a{
+	color: white;
+}
+.user{
+	height: 40px;
+
+}
